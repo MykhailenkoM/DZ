@@ -1,4 +1,6 @@
-    class MySquare {
+package old_dz;
+
+class MySquare {
         // Цикл for вложенный в цикл for. ( Построение квадрата из звездочек - * )
 
         public static void main(String[] args) {

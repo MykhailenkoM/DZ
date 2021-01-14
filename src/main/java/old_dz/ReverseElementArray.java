@@ -1,3 +1,5 @@
+package old_dz;
+
 import java.util.Scanner;
 
 public class ReverseElementArray {

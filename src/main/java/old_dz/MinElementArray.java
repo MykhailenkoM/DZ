@@ -1,3 +1,5 @@
+package old_dz;
+
 public class MinElementArray {
     public static void main(String[] args) {
         int[] arr = new int[10];
